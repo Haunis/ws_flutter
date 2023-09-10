@@ -1,0 +1,12 @@
+
+安装flutter会默认安装dart和dart-sdk
+
+dart-sdk路径：
+~/snap/flutter/common/flutter/bin/cache/dart-sdk
+
+
+使用vscode作为ide
+    只要 dart 在环境变量里即可
+
+使用Android Studio作为ide
+    要设置dart-sdk路径
