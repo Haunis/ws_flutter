@@ -9,4 +9,4 @@ dart-sdk路径：
     只要 dart 在环境变量里即可
 
 使用Android Studio作为ide
-    要设置dart-sdk路径
+    直接使用AS打开dart项目，再设置dart-sdk路径
